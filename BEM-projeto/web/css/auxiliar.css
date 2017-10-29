@@ -1,0 +1,84 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 26/10/2017, 19:51:38
+    Author     : MaryanneAlice <maryannealice@live.com>
+*/
+
+/* GERAL*/
+
+.bem_logo {
+    font-family: Kelvetica!important; 
+    font-size: 30px; 
+    padding-top: 0; 
+    padding-bottom: 0; 
+    margin: 0;
+}
+footer {
+    background-color:#6495ED !important;
+}
+
+/* ------------------------ */
+
+/* INDEX */ 
+
+@font-face {
+    font-family: Kelvetica;
+    src: url('../fonts/Kelvetica.otf');
+}
+.link-nav {
+    color: white;
+}
+.bem-image {
+    background-image: url('../images/bem.jpg');
+}
+.slide-ansiedade {
+    background-image: url('../images/ansiedade.jpg');
+}
+.slide-depressao{
+    background-image: url('../images/depressao.jpg');
+}
+.game {
+    background-image: url(../imgs/game.jpeg); 
+    width: 100%; 
+    height: 620px;
+    border-radius:10px;
+}
+.btn-game {
+    float: right; 
+    margin-top:35em;
+    margin-right: 50%;
+}
+
+/* ------------------------ */
+
+/* PAGE ANSIEDADE */
+
+.btn-comentar {
+    float: right!important; 
+    width: 100px; 
+    padding: 0!important; 
+    height:30px;
+}
+
+/* ------------------------ */
+
+/* ABOUT */
+
+small {
+    color: gray;
+}
+
+/* ------------------------ */
+
+/* GAME */
+
+.menu_jogo {
+    display: block;
+    margin: 0 auto;
+    margin-top: 5.5% !important;
+    margin-bottom: 5.5% !important;
+}
