@@ -37,7 +37,7 @@ public class ConectarBanco {
             
             String url="jdbc:mysql://localhost:3306/bem-pds";
             String user="root";
-            String password="jonathan1998";
+            String password="*";
 
             try {
                 connection = (Connection) DriverManager.getConnection(url, user, password);
