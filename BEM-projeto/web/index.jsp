@@ -138,7 +138,7 @@
                 (humano ou animal) superar determinadas...</p>
             </div>
             <div class="card-footer">
-              <a href=estresse.jsp" class="btn btn-primary">Continuar lendo...</a>
+              <a href="estresse.jsp" class="btn btn-primary">Continuar lendo...</a>
             </div>
           </div>
         </div>
