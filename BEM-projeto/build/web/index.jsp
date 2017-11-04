@@ -47,7 +47,7 @@
               <a class="nav-link" href="contact.jsp">Fale Conosco</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="services.jsp">Login</a>
+              <a class="nav-link" href="singin.jsp">Login</a>
             </li>
           </ul>
         </div>
@@ -138,7 +138,7 @@
                 (humano ou animal) superar determinadas...</p>
             </div>
             <div class="card-footer">
-              <a href=estresse.jsp" class="btn btn-primary">Continuar lendo...</a>
+              <a href="estresse.jsp" class="btn btn-primary">Continuar lendo...</a>
             </div>
           </div>
         </div>

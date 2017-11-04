@@ -49,7 +49,7 @@
               <a class="nav-link" href="contact.jsp">Fale Conosco</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="services.jsp">Login</a>
+              <a class="nav-link" href="singin.jsp">Login</a>
             </li>
           </ul>
         </div>
@@ -72,7 +72,7 @@
             <a href="index.jsp">Home</a>
           </li>
           <li>
-            <a href="services.jsp">Login</a>
+            <a href="singin.jsp">Login</a>
           </li>
           <li>
             <a href="about.jsp">Sobre Nós</a>
