@@ -10,7 +10,7 @@ import java.sql.PreparedStatement;
 import java.sql.SQLException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import model.QuestionarioDASS21;
+import entidades.QuestionarioDASS21;
 import services.ConectarBanco;
 import static services.ConectarBanco.getConnection;
 

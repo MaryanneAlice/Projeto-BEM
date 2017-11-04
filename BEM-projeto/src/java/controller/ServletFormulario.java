@@ -17,7 +17,7 @@ import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-import model.QuestionarioDASS21;
+import entidades.QuestionarioDASS21;
 import services.ConectarBanco;
 
 /**
