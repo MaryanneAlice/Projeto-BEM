@@ -1,0 +1,3 @@
+INSERT INTO `tipoatendimento` VALUES (20,'89800',1,1,1,0),(34,'12123234',1,1,0,0);
+INSERT INTO `cad_psicologo` VALUES ('12123234','exemplo da silva costa','rua rua','23','bairro bairro','cidadecida','28732837824676','91829182918291','m@m.c','usuario','senha1',34),('8888888888','msmsmsmsm','Rua Dr Gentil Ferreira de Souza','1856474','Cohabinal','Parnamirim','2329392949','888888','m@m.c','usuario','senha1',20);
+INSERT INTO `questionario` VALUES (4,'form',1,0,0,1,2,1,1,1,2,2,3,2,2,2,2,2,3,3,2,1,0),(5,'form',1,0,0,1,2,1,1,1,2,2,3,2,2,2,2,2,3,3,2,1,0),(6,'form',1,0,0,1,2,1,1,1,2,2,3,2,2,2,2,2,3,3,2,1,0),(7,'form',0,1,2,3,2,2,2,3,3,3,3,1,1,0,1,3,2,2,0,0,0);
